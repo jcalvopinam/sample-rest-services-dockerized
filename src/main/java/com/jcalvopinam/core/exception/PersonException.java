@@ -22,7 +22,7 @@
  * SOFTWARE.
  */
 
-package com.jcalvopinam.exception;
+package com.jcalvopinam.core.exception;
 
 /**
  * @author Juan Calvopina M. <juan.calvopina@gmail.com>

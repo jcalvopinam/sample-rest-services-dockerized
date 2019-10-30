@@ -26,7 +26,7 @@ package com.jcalvopinam.api;
 
 import com.jcalvopinam.core.dto.PersonDTO;
 import com.jcalvopinam.core.service.PersonaService;
-import com.jcalvopinam.exception.PersonException;
+import com.jcalvopinam.core.exception.PersonException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

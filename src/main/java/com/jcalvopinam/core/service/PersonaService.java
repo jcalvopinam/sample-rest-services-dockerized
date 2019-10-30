@@ -25,7 +25,7 @@
 package com.jcalvopinam.core.service;
 
 import com.jcalvopinam.core.dto.PersonDTO;
-import com.jcalvopinam.exception.PersonException;
+import com.jcalvopinam.core.exception.PersonException;
 
 import java.util.List;
 

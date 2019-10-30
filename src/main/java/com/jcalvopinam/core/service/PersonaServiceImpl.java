@@ -29,7 +29,7 @@ import com.jcalvopinam.core.converter.PersonToPersonDTOConverter;
 import com.jcalvopinam.core.domain.Person;
 import com.jcalvopinam.core.dto.PersonDTO;
 import com.jcalvopinam.core.repository.PersonRepository;
-import com.jcalvopinam.exception.PersonException;
+import com.jcalvopinam.core.exception.PersonException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
